@@ -1274,8 +1274,8 @@ button {
   -ms-transition: -ms-transform 0.325s ease-in-out,
     -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/lago_2.jpg");
-  background-position: center;
+  background-image: url("../../images/MI\ SITIO1\ \(1\).jpg");
+  background-position: left;
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 1;
@@ -1403,7 +1403,7 @@ body.is-preload #bg:before {
   position: absolute;
   top: calc(-3.5rem - 1px);
   left: calc(50% - 1px);
-  width: 1px;
+  /*width: 1px;*/
   height: calc(3.5rem + 1px);
   background: #ffffff;
 }
@@ -1429,7 +1429,7 @@ body.is-preload #bg:before {
 }
 
 #header .content {
-  border-style: solid;
+  /*border-style: solid;*/
   border-color: #ffffff;
   border-top-width: 1px;
   border-bottom-width: 1px;
